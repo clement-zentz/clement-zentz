@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Salut, je suis Clément 👋
+
+Je suis développeur Python intéressé par le web, les APIs et les micro-services.  
+
+## Compétences
+- Python, Django, DRF
+- React, HTML/CSS
+- Docker, Kubernetes
+
