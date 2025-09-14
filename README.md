@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **clement-zentz/clement-zentz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,12 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Salut, je suis Clément 👋
+# Hello, my name is Clément 👋
 
-Je suis développeur Python intéressé par le web, les APIs et les micro-services.  
+I am a Python developer interested in web, APIs and microservices. 
 
-## Compétences
-- Python, Django, DRF
-- React, HTML/CSS
-- Docker, Kubernetes
+## Skills
+- Python, Django, PostgreSQL
+- HTML/CSS/JS, DTL
+- Docker, docker-compose
+
+🌐 [See my blog online](https://codecat.ovh)
 
