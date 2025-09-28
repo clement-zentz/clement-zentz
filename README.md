@@ -1,26 +1,11 @@
-<!--
-**clement-zentz/clement-zentz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hello, my name is Clément 👋
 
-I am a Python developer interested in web, APIs and microservices. 
+I am a Python developer interested in web, APIs and microservices.
 
 ## Skills
-- Python, Django, PostgreSQL
-- HTML/CSS/JS, DTL
-- Docker, docker-compose
+- **Backend:** Python, Django, djangorest-framework (DRF), FastAPI, PostgreSQL
+- **Frontend:** HTML/CSS/JS, django-template-language (DTL), React/TS
+- **DevOps:** Docker, docker-compose, Git
 
 🌐 [See my blog online](https://codecat.ovh)
-
+🎥 [Follow my Developer journey](http://https://www.youtube.com/@codecat-r8q)
