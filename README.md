@@ -8,4 +8,3 @@ I am a Python developer interested in web, APIs and microservices.
 - **DevOps:** Docker, docker-compose, Git
 
 🌐 [See my blog online](https://codecat.ovh)
-🎥 [Follow my Developer journey](https://www.youtube.com/@clement-zentz)
