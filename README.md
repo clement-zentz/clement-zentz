@@ -1,6 +1,7 @@
 # Hello, I'm Clément 👋
 
 I'm a Software Engineer focused on backend architectures and AI/data-driven systems.
+💼 I'm currently open to work opportunities related to web development, backend engineering, or AI/data systems.
 
 I'm currently working on the infrastructure for my projects.
 Therefore, most of my contributions to GitHub will be private for security reasons.
@@ -8,6 +9,8 @@ I'll also be working on my portfolio, adding a News section, and posting it onli
 So I can update you once a week on my progress.
 
 Thank you for your patience and understanding.
+
+---
 
 ## 🛠️ Technical Skills:
 - **Backend:** Python🐍, Django/DRF🦎, FastAPI⚡, PostgreSQL🐘
