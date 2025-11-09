@@ -1,14 +1,12 @@
 # Hello, I'm Clément 👋
 
-I'm a Software Engineer focused on backend architectures and AI/data-driven systems.
+I'm a Software Engineer focused on backend architectures and AI/data-driven systems.  
 💼 I'm currently open to work opportunities related to web development, backend engineering, or AI/data systems.
 
-I'm currently working on the infrastructure for my projects.
-Therefore, most of my contributions to GitHub will be private for security reasons.
-I'll also be working on my portfolio, adding a News section, and posting it online in the future. 
-So I can update you once a week on my progress.
-
-Thank you for your patience and understanding.
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=fff)
 
 ---
 
@@ -18,4 +16,14 @@ Thank you for your patience and understanding.
 - **DevOps:** Bash/Shell⌨️, Linux🐧, Docker🐳, GitHub/Actions🐙, GHRC📦
 - **Other tools:** Nginx🌐, Cerbot📑, Traefik🚗
 
-🌐 [See my blog online](https://codecat.ovh)
+---
+
+## 📫 Connect with Me
+
+- 🌐 [codecat.ovh](https://codecat.ovh)
+- 💬 [LinkedIn](https://www.linkedin.com/in/clement-zentz)
+- 🐙 [GitHub](https://github.com/clement-zentz)
+
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clement-zentz&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
